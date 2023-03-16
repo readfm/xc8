@@ -1,16 +1,28 @@
 # xc8
 
-A new Flutter project.
+for thing, webpage in browser, offer options|option
 
-## Getting Started
+![options|option](https://i.imgur.com/d8Ui2bU.png)
 
-This project is a starting point for a Flutter application.
+(https://youtu.be/ets-2B0nhP8)    
+^ mk result fast
 
-A few resources to get you started if this is your first Flutter project:
+![options good|ok](https://i.imgur.com/pG32wBv.gif)  
+^ spec couple days ago  
 
+for webpage:    
+1) url input to go where you want   
+2) option input to ask-question|offer-options   
+3) make players play games   
+
+= = = 
+
+FLUTTER:   
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter development, [online documentation](https://docs.flutter.dev/)
+- tutorials   
+- samples     
+- mobile dev guide   
+- full API reference
